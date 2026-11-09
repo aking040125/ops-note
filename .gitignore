@@ -1,0 +1,14 @@
+# 主要忽略项
+.env
+
+# 日志
+*.log
+logs/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+
+# 临时文件
+*.tmp
